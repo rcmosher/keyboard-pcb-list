@@ -15,5 +15,8 @@ https://github.com/zsa/docs
 https://github.com/foostan/crkbd
 Has good documentation. Simple & more complicated version. Supports Elite-C Should be a good starting point to learn. Though much fewer keys.
 
+## Helix
+https://github.com/MakotoKurauchi/helix
+
 # Other lists to look through
 https://github.com/diimdeep/awesome-split-keyboards
